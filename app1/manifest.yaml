@@ -52,7 +52,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-  - host: "app1.daws90s.shop"
+  - host: "app1.vinaydevops.online"
     http:
       paths:
       - pathType: Prefix
